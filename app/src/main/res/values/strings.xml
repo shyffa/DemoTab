@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Demo Tab</string>
+
+    <string name="about">About</string>
+    <string name="changelog">Changelog</string>
+    <string name="thanks">Thanks To</string>
+    <string name="libraries">Libraries</string>
+
+    <string-array name="android">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+    </string-array>
+</resources>
